@@ -2,7 +2,7 @@
 
 **Trust-Aware Adversarial Multi-Agent Reinforcement Learning for Autonomous Drone Border Surveillance**
 
-> VI Semester Mini Project · Ramaiah Institute of Technology · CSE (AI & ML) + CSE (Cyber Security)  
+> VI Semester Mini Project · Ramaiah Institute of Technology ·  CSE (Cyber Security)  
 > Guide: Dr. Siddesh G.M · Co-guide: Mr. Prashanth Reddy
 
 ---
